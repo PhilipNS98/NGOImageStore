@@ -14,7 +14,7 @@ const ROUTER_SESSION_LAST_LOGIN = 'router-session-lastLogin'
 const ROUTER_SESSION_LAST_LOGOUT = 'router-session-lastLogout'
 
 let routes = {};
-let templates = {}; 
+let templates = {};
 
 /**
  * Removes user data from the session storeage.
